@@ -1,0 +1,21 @@
+
+- Isolating Kubernetes pods for debugging https://lnkd.in/gnM7bKp6
+- Learning how an ingress controller works by building one in bash https://lnkd.in/gAWcCPP2
+- Learn why you can't ping a Kubernetes service https://lnkd.in/gi6TAjxz
+- Kubernetes YAML tips and tricks https://lnkd.in/gXU83AFu
+- What happens when you create a pod in Kubernetes? https://lnkd.in/gRqH5pJH
+- Kubernetes scheduler deep dive https://lnkd.in/gsFQjMUa
+- How do you gracefully shut down Pods in Kubernetes? https://lnkd.in/g2b-7U5y
+- 4 container design patterns https://lnkd.in/gPajfnAX
+- CPU limits and requests in Kubernetes https://lnkd.in/g9SM5dEW
+- Working with the Kubernetes API https://lnkd.in/grZAPghw
+- IP and pod allocations in EKS https://lnkd.in/ggksdxbP
+- Memory requests and limits in Kubernetes https://lnkd.in/gdcsWEqe
+- Pod rebalancing and allocations in Kubernetes https://lnkd.in/gNZU83HS
+- Multi-tenancy in Kubernetes https://lnkd.in/gpHHuH-M
+- Autoscaling Ingress controllers in Kubernetes https://lnkd.in/gWD5fqzU
+- Labels and annotations in Kubernetes https://lnkd.in/g7yA_mze
+- How etcd works https://lnkd.in/g9GzhQ63
+- Tracing pod to pod network traffic https://lnkd.in/gYm9gbEn
+- Traffic shaping with Kubernetes and Istio https://lnkd.in/ghxX_jhk
+- Keeping up with Kubernetes: news, jobs, events https://lnkd.in/gp24WCx8
